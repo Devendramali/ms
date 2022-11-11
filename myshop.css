@@ -1,0 +1,106 @@
+#top{
+    background-color: aqua;
+    border: 1px hidden black;
+    height: 67px;
+    width: 101%;
+    margin-top: -14px;
+}
+#top>h2{
+    font-size: 28px;
+    margin-left:306px;
+    text-decoration: underline;
+    padding-top: 14px;
+    
+}
+#sb{
+    border: 1px hidden black;
+    background-color: aliceblue;
+    width: 313px;
+    height: 40px;
+    margin-top: -54px;
+    margin-left: 436px;
+    
+}
+#log{
+    border: 1px hidden black;
+    background-color: aliceblue;
+    width: 116px;
+    height: 26px;
+    margin-top: -52px;
+    margin-left: 783px;
+  
+
+}
+#log>h2{
+    margin-left: 20px;
+    color: black;
+    
+}
+#o{
+    margin-top: 0px;
+    margin-left: 0px;
+
+}
+#g{
+    margin-top: -190px;
+    margin-left: 165px;
+}
+
+#m{
+    margin-top: -190px;
+    margin-left: 340px;
+}
+#ap{
+    margin-top: -190px;
+    margin-left: 515px;
+}
+#t{
+    margin-top: -190px;
+    margin-left: 700px;
+}
+#hc{
+    margin-top: -190px;
+    margin-left: 877px;
+}
+#f{
+    margin-top: -190px;
+    margin-left: 1050px ;
+}
+#btm{
+    margin-top: -190px;
+    margin-left: 1218px;
+}
+#gm >h2{
+    
+    text-decoration: none;
+    color: black;
+}
+#gm{
+    border: 1px hidden black;
+    margin-top: 40px;
+    transition: 1s;
+}
+#line{
+    border: 1px solid black;
+    width: 100%;
+    height: 0px;
+    margin-top: -15px;
+}
+#about{
+    background-color: darkslategrey;
+    margin-top: 100px;
+    
+    border: 1px solid black;
+    width: 100%;
+    height: 300px;
+    font-size: 40x;
+  
+}
+#ul1{
+    margin-top:50px;
+    margin-left: 100px;
+}
+#ul2{
+    margin-top: -160px;
+    margin-left: 337px;
+}

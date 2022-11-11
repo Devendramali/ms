@@ -1,0 +1,68 @@
+.nav nav-pills mb-3{
+    margin-left: 100%;
+}
+.btn,.container-fluid row>.btn > a {
+    background-color: black;
+  
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: white;
+
+}
+/* .container-fluid row >a{ background-color: black; */
+  
+   
+/* } */
+
+.btn > a{
+    text-decoration: none;
+    color: white;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+.btn:hover>a{
+    background-color: white;
+    color: black;
+}
+.img-thumbnail{
+    height: 150px;
+    width:150px ;
+    margin-left: 10%;
+  
+}
+.card-title{
+    color: black; text-align: center;
+}
+.card h-100 bg-secondary{
+    list-style: none;
+  
+}
+.card col-4 col-md-2{
+    border: 5px;
+}
+.card{
+    border: 3px black solid;
+}
+div.card h-100 bg-secondary>li>a {
+   
+    text-decoration: none;
+  
+   
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+del{
+    color: black;
+    margin-right: 50%;
+}
+.btn{
+  
+}
+.card col-4 col-md-2{
+  align-self: center;
+}
